@@ -1,0 +1,3 @@
+Cách viết	                    Ý nghĩa
+cy.get(selector)	            Chọn phần tử dựa trên CSS selector
+cy.contains(selector, text)	    Chọn phần tử dựa trên selector + nội dung văn bản bên trong
